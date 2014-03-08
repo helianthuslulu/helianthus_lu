@@ -1,4 +1,8 @@
 this is a study of netlink socket.
 
+
+内核与用户空间的单工通讯:
+在这个例子中，一个用户态进程发送一个netlink消息给内核模块，内核模块把消息回送给发送进程
 bianlulu
 20140308
+
